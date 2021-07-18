@@ -1,0 +1,20 @@
+.skill-title {
+    border:3px solid;
+    border-radius: 5rem;
+    background-color: red;
+}
+
+.skill-title2{
+    border:3px solid;
+    border-radius: 5rem;
+    background-color: red;
+}
+
+.divider {
+    width: 400px;
+}
+
+.photoshop{
+    width:50px;
+    height: 50px;
+}
