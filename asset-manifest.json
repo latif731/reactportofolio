@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/reactportofolio/static/css/main.e55b6e85.chunk.css",
+    "main.js": "/reactportofolio/static/js/main.aad56d5f.chunk.js",
+    "main.js.map": "/reactportofolio/static/js/main.aad56d5f.chunk.js.map",
+    "runtime-main.js": "/reactportofolio/static/js/runtime-main.738e8fe3.js",
+    "runtime-main.js.map": "/reactportofolio/static/js/runtime-main.738e8fe3.js.map",
+    "static/css/2.c1ae8167.chunk.css": "/reactportofolio/static/css/2.c1ae8167.chunk.css",
+    "static/js/2.4d61cb4b.chunk.js": "/reactportofolio/static/js/2.4d61cb4b.chunk.js",
+    "static/js/2.4d61cb4b.chunk.js.map": "/reactportofolio/static/js/2.4d61cb4b.chunk.js.map",
+    "static/js/3.ca1320eb.chunk.js": "/reactportofolio/static/js/3.ca1320eb.chunk.js",
+    "static/js/3.ca1320eb.chunk.js.map": "/reactportofolio/static/js/3.ca1320eb.chunk.js.map",
+    "index.html": "/reactportofolio/index.html",
+    "static/css/2.c1ae8167.chunk.css.map": "/reactportofolio/static/css/2.c1ae8167.chunk.css.map",
+    "static/css/main.e55b6e85.chunk.css.map": "/reactportofolio/static/css/main.e55b6e85.chunk.css.map",
+    "static/js/2.4d61cb4b.chunk.js.LICENSE.txt": "/reactportofolio/static/js/2.4d61cb4b.chunk.js.LICENSE.txt",
+    "static/media/SMAN 1 MEJAYAN.ba24c5eb.png": "/reactportofolio/static/media/SMAN 1 MEJAYAN.ba24c5eb.png",
+    "static/media/Tutwuri-Handayani-SD.009f6088.png": "/reactportofolio/static/media/Tutwuri-Handayani-SD.009f6088.png",
+    "static/media/frontend1.ccdcd07e.png": "/reactportofolio/static/media/frontend1.ccdcd07e.png",
+    "static/media/frontend2.a34e0a47.jpg": "/reactportofolio/static/media/frontend2.a34e0a47.jpg",
+    "static/media/frontend3.d274b4cf.jpg": "/reactportofolio/static/media/frontend3.d274b4cf.jpg",
+    "static/media/latif.37db995d.png": "/reactportofolio/static/media/latif.37db995d.png",
+    "static/media/porto1.6c862294.png": "/reactportofolio/static/media/porto1.6c862294.png",
+    "static/media/porto2.b1eeb00c.png": "/reactportofolio/static/media/porto2.b1eeb00c.png",
+    "static/media/porto3.ecd6ebde.png": "/reactportofolio/static/media/porto3.ecd6ebde.png",
+    "static/media/porto4.8f69aad6.png": "/reactportofolio/static/media/porto4.8f69aad6.png",
+    "static/media/smp wonoasri.df127b6c.png": "/reactportofolio/static/media/smp wonoasri.df127b6c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.738e8fe3.js",
+    "static/css/2.c1ae8167.chunk.css",
+    "static/js/2.4d61cb4b.chunk.js",
+    "static/css/main.e55b6e85.chunk.css",
+    "static/js/main.aad56d5f.chunk.js"
+  ]
+}
